@@ -1,0 +1,66 @@
+
+nav, footer {
+    background-color: black;
+    color: black;
+    padding: 5px;
+  }
+ body {background-color: rgb(235, 64, 112);}
+
+  #active {
+    background-color: rgb(225, 74, 150);
+    color: steelblue;
+} 
+a {
+    color: white;
+    margin: 40px;
+  }
+h1, h2, h3 {
+    color:white;  text-align: center;
+  }
+section {
+    background-color: rgb(219, 45, 132);
+        }
+
+/* p {
+    padding: 10px;
+  } */
+.main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font: san-serif;
+} 
+footer {
+    background-color: rgb(235, 64, 112);
+    color: white;
+  
+  }
+footer p {
+    font-size: 20px;
+    margin: 10px auto;
+    
+}
+a:hover {
+  background-color: rgb(199, 28, 91);
+  color: steelblue;
+}
+ nav, footer {
+    text-align: center;
+} 
+  /* img {
+    width: 40%;
+} */
+main p {
+  width: 100%;
+  margin: 5px auto;
+  text-align: center;
+  padding-top:5px;
+  	padding-bottom:5px;
+} 
+a {
+  font-size: 1.5em;
+}
+ img {
+    width: 10%;
+    display: block;
+    margin: 0 auto;
+}
