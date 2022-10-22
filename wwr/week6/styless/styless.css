@@ -1,0 +1,14 @@
+.home-grid {
+    display : grid;
+    grid-template-columns : 2fr 2fr;
+    gap : 20px;
+    }
+    img {
+    grid-column : auto;
+    grid-row : auto;
+    }
+    h1 {
+    grid-column : auto;
+    grid-row : auto;
+    z-index : auto;
+    }
